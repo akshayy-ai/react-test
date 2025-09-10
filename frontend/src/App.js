@@ -35,7 +35,7 @@ const theme = createTheme({
 });
 
 // ✅  NO trailing slash
-const backendUrl = "https://react-test-1-lc86.onrender.com";
+const backendUrl = "https://live-rag-chatbot.onrender.com";
 
 const quickQuestions = [
   "What is this document about?",
