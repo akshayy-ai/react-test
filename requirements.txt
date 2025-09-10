@@ -1,0 +1,19 @@
+
+# Core RAG dependencies
+langchain
+openai
+faiss-cpu
+chromadb
+pypdf
+
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Text processing
+tiktoken
+beautifulsoup4
+
+# Development
+python-dotenv
